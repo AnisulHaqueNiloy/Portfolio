@@ -1,0 +1,144 @@
+.contact-section{
+    padding: 80px 0px;
+   
+}
+
+
+.contact-text{
+    text-align: center;
+}
+
+
+.contact-p{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(180, 181, 182);
+}
+
+.contact-h{
+    font-size: 32px;
+    letter-spacing: 1px;
+}
+.contact--form{
+    border: 1.5px solid aqua;
+    box-shadow: 0px 0px 18px aqua;
+    margin-top: 80px;
+    
+    background: linear-gradient(70deg, #16191a, rgb(15, 32, 36),#093949);
+}
+
+.container-form{
+    padding: 60px 100px;
+}
+
+.container-form h1{
+    font-size: 36px;
+}
+
+.input-area{
+
+    padding:20px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* form{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.inputbox{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+ .input-field{
+
+    width: 650px;
+    height: 50px;
+    background: transparent;
+    font-size: 40px;
+    border: none;
+    border-bottom: 1.5px solid aqua;
+
+    box-sizing: border-box;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+
+ }
+
+ .input-field1{
+    width: 1400px;
+    height: 50px;
+    background: transparent;
+    font-size: 40px;
+    border: none;
+    border-bottom: 1.5px solid aqua;
+
+    box-sizing: border-box;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+ }
+
+ button{
+    justify-content: center;
+    background: rgb(20, 180, 180);
+    height: 40px;
+    width: 90px;
+    border: none;
+    transition: .3s ease-out;
+    box-shadow: 0px 0px 18px aqua;
+    border-radius: 10%;
+ }
+ button:hover{
+    box-shadow: none;
+} 
+
+.button-sec{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/*
+.message{
+    font-size: 20px;
+    background: transparent;
+    border: none;
+    width: 100%;
+    border-bottom: 2px solid aqua;
+    height: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.file-input{
+    
+    color: #ccd1d3;
+    padding: 20px;
+    background: transparent;
+    border: 2px solid aqua;
+    transition: .5s ease-in;
+}
+.file-input:hover{
+    background: rgb(18, 68, 68);
+}
+
+.submitbtn{
+    background: rgb(20, 180, 180);
+    height: 40px;
+    width: 90px;
+    border: none;
+    transition: .3s ease-out;
+    box-shadow: 0px 0px 18px aqua;
+    border-radius: 10%;
+}
+.submitbtn:hover{
+        box-shadow: none;
+} */
